@@ -16,10 +16,10 @@ span {
 }
 
 h1 {
+    background-color: aqua;
     border: 2px aqua;
     margin: 10px;
     padding: 10px;
-    background-color: aqua;
     text-align: center;
 }
 
