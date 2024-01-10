@@ -26,6 +26,7 @@ h1 {
 .Selections {
     background-color: aqua;
     border: 2px aqua;
+    list-style-type: none;
     margin: 10px;
     padding: 10px;
     text-align: center;
